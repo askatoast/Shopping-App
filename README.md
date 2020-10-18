@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![images](https://github.com/czarnikhil27/Shopping-App/blob/main/imgs/w1.jpg)
+![images](https://github.com/czarnikhil27/Shopping-App/blob/main/imgs/Main_page.png)
